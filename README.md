@@ -19,10 +19,12 @@ I'm open-minded, always willing to learn and to live new experiences.
 
 
 ## Hobbies
-- I love swimming 🏊🏻‍♂️
-- I love to watch football ⚽️
+- Swimming 🏊🏻‍♂️
+- Football ⚽️
     - I'm a fan of Real Madrid ❤️
-- I like to play poker ♠️ ♣️ ♥️ ♦️
+- Poker ♠️ ♣️ ♥️ ♦️
+- Hiking
+- Visit museums (especially about WWII)
 
 ## You can always count on me when...
 
