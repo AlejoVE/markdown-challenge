@@ -3,7 +3,7 @@
 
 # Luis Alejandro Montilla
 
-*"Do what you can, with what you’ve got, where you are."*
+*"Do what you can, with what you’ve got, where you are".<br>Theodore Roosevelt*
 
 ![alt text](https://user-images.githubusercontent.com/59319966/71984883-00b37e80-322a-11ea-8918-174045d3c0df.jpg "Logo Title Text 1")
 
@@ -37,4 +37,4 @@ Once I went to the university just to see a class, I noticed that people were lo
 
 Check your shirt twice before leaving home.
 
-<< [Previous](https://github.com/Ooverz/markdown-challenge) || Alejandro Montilla|| [Next](https://github.com/AscelineHogge/markdown-challenge) >>
+<< [Adriano Campisi](https://github.com/Ooverz/markdown-challenge) || Alejandro Montilla || [Asceline Hogge](https://github.com/AscelineHogge/markdown-challenge) >>
